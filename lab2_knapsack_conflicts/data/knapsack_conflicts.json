@@ -1,0 +1,322 @@
+{
+  "seed": 42,
+  "n_items": 40,
+  "capacity": 204,
+  "items": [
+    {
+      "id": 0,
+      "name": "Item_00",
+      "weight": 25,
+      "value": 34
+    },
+    {
+      "id": 1,
+      "name": "Item_01",
+      "weight": 5,
+      "value": 114
+    },
+    {
+      "id": 2,
+      "name": "Item_02",
+      "weight": 13,
+      "value": 51
+    },
+    {
+      "id": 3,
+      "name": "Item_03",
+      "weight": 12,
+      "value": 37
+    },
+    {
+      "id": 4,
+      "name": "Item_04",
+      "weight": 8,
+      "value": 106
+    },
+    {
+      "id": 5,
+      "name": "Item_05",
+      "weight": 22,
+      "value": 31
+    },
+    {
+      "id": 6,
+      "name": "Item_06",
+      "weight": 23,
+      "value": 74
+    },
+    {
+      "id": 7,
+      "name": "Item_07",
+      "weight": 6,
+      "value": 23
+    },
+    {
+      "id": 8,
+      "name": "Item_08",
+      "weight": 7,
+      "value": 47
+    },
+    {
+      "id": 9,
+      "name": "Item_09",
+      "weight": 12,
+      "value": 84
+    },
+    {
+      "id": 10,
+      "name": "Item_10",
+      "weight": 24,
+      "value": 23
+    },
+    {
+      "id": 11,
+      "name": "Item_11",
+      "weight": 22,
+      "value": 45
+    },
+    {
+      "id": 12,
+      "name": "Item_12",
+      "weight": 25,
+      "value": 109
+    },
+    {
+      "id": 13,
+      "name": "Item_13",
+      "weight": 22,
+      "value": 73
+    },
+    {
+      "id": 14,
+      "name": "Item_14",
+      "weight": 12,
+      "value": 77
+    },
+    {
+      "id": 15,
+      "name": "Item_15",
+      "weight": 23,
+      "value": 55
+    },
+    {
+      "id": 16,
+      "name": "Item_16",
+      "weight": 5,
+      "value": 117
+    },
+    {
+      "id": 17,
+      "name": "Item_17",
+      "weight": 10,
+      "value": 109
+    },
+    {
+      "id": 18,
+      "name": "Item_18",
+      "weight": 18,
+      "value": 63
+    },
+    {
+      "id": 19,
+      "name": "Item_19",
+      "weight": 13,
+      "value": 39
+    },
+    {
+      "id": 20,
+      "name": "Item_20",
+      "weight": 11,
+      "value": 117
+    },
+    {
+      "id": 21,
+      "name": "Item_21",
+      "weight": 15,
+      "value": 33
+    },
+    {
+      "id": 22,
+      "name": "Item_22",
+      "weight": 7,
+      "value": 68
+    },
+    {
+      "id": 23,
+      "name": "Item_23",
+      "weight": 8,
+      "value": 65
+    },
+    {
+      "id": 24,
+      "name": "Item_24",
+      "weight": 16,
+      "value": 97
+    },
+    {
+      "id": 25,
+      "name": "Item_25",
+      "weight": 13,
+      "value": 25
+    },
+    {
+      "id": 26,
+      "name": "Item_26",
+      "weight": 19,
+      "value": 88
+    },
+    {
+      "id": 27,
+      "name": "Item_27",
+      "weight": 8,
+      "value": 68
+    },
+    {
+      "id": 28,
+      "name": "Item_28",
+      "weight": 7,
+      "value": 90
+    },
+    {
+      "id": 29,
+      "name": "Item_29",
+      "weight": 14,
+      "value": 100
+    },
+    {
+      "id": 30,
+      "name": "Item_30",
+      "weight": 24,
+      "value": 66
+    },
+    {
+      "id": 31,
+      "name": "Item_31",
+      "weight": 23,
+      "value": 44
+    },
+    {
+      "id": 32,
+      "name": "Item_32",
+      "weight": 7,
+      "value": 25
+    },
+    {
+      "id": 33,
+      "name": "Item_33",
+      "weight": 12,
+      "value": 118
+    },
+    {
+      "id": 34,
+      "name": "Item_34",
+      "weight": 14,
+      "value": 30
+    },
+    {
+      "id": 35,
+      "name": "Item_35",
+      "weight": 12,
+      "value": 32
+    },
+    {
+      "id": 36,
+      "name": "Item_36",
+      "weight": 17,
+      "value": 55
+    },
+    {
+      "id": 37,
+      "name": "Item_37",
+      "weight": 19,
+      "value": 101
+    },
+    {
+      "id": 38,
+      "name": "Item_38",
+      "weight": 16,
+      "value": 40
+    },
+    {
+      "id": 39,
+      "name": "Item_39",
+      "weight": 16,
+      "value": 65
+    }
+  ],
+  "conflicts": [
+    [
+      1,
+      36
+    ],
+    [
+      4,
+      22
+    ],
+    [
+      4,
+      30
+    ],
+    [
+      5,
+      35
+    ],
+    [
+      6,
+      38
+    ],
+    [
+      7,
+      29
+    ],
+    [
+      7,
+      32
+    ],
+    [
+      11,
+      26
+    ],
+    [
+      14,
+      33
+    ],
+    [
+      17,
+      37
+    ],
+    [
+      21,
+      36
+    ],
+    [
+      23,
+      30
+    ],
+    [
+      23,
+      35
+    ],
+    [
+      24,
+      28
+    ],
+    [
+      25,
+      37
+    ],
+    [
+      26,
+      37
+    ],
+    [
+      28,
+      33
+    ],
+    [
+      31,
+      34
+    ]
+  ],
+  "description": "0/1 Knapsack with pairwise conflicts. A solution is feasible if total weight ≤ capacity and no conflicting pair is both selected."
+}

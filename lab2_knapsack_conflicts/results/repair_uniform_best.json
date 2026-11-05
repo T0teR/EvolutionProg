@@ -1,0 +1,29 @@
+{
+  "config": {
+    "name": "repair_uniform",
+    "constraint_mode": "repair",
+    "crossover_type": "uniform"
+  },
+  "value": 1494.0,
+  "weight": 202,
+  "selected_items": [
+    1,
+    2,
+    4,
+    8,
+    9,
+    12,
+    16,
+    17,
+    19,
+    20,
+    23,
+    24,
+    26,
+    27,
+    29,
+    33,
+    39
+  ],
+  "seed": 2004
+}

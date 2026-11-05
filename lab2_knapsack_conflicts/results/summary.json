@@ -1,0 +1,112 @@
+{
+  "summaries": {
+    "repair_onepoint": {
+      "n_runs": 25,
+      "best": 1494.0,
+      "worst": 1481.0,
+      "mean": 1490.36,
+      "median": 1494.0,
+      "std": 5.491508596612288,
+      "feasible_rate": 1.0
+    },
+    "repair_uniform": {
+      "n_runs": 25,
+      "best": 1494.0,
+      "worst": 1481.0,
+      "mean": 1487.28,
+      "median": 1492.0,
+      "std": 6.201612693485462,
+      "feasible_rate": 1.0
+    },
+    "penalty_onepoint": {
+      "n_runs": 25,
+      "best": 1494.0,
+      "worst": 1453.0,
+      "mean": 1484.68,
+      "median": 1489.0,
+      "std": 11.520705996885201,
+      "feasible_rate": 1.0
+    },
+    "penalty_strong": {
+      "n_runs": 25,
+      "best": 1494.0,
+      "worst": 1457.0,
+      "mean": 1484.72,
+      "median": 1482.0,
+      "std": 9.774627017607031,
+      "feasible_rate": 1.0
+    }
+  },
+  "greedy": {
+    "value": 1469,
+    "weight": 199,
+    "selected": [
+      32,
+      1,
+      2,
+      3,
+      4,
+      39,
+      8,
+      9,
+      12,
+      14,
+      16,
+      17,
+      20,
+      23,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  "random_search": {
+    "value": 1447,
+    "weight": 204,
+    "selected": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      12,
+      16,
+      18,
+      20,
+      23,
+      24,
+      27,
+      29,
+      32,
+      33,
+      37,
+      39
+    ]
+  },
+  "best_overall": {
+    "config": "repair_onepoint",
+    "value": 1494.0,
+    "weight": 202,
+    "selected_items": [
+      1,
+      2,
+      4,
+      8,
+      9,
+      12,
+      16,
+      17,
+      19,
+      20,
+      23,
+      24,
+      26,
+      27,
+      29,
+      33,
+      39
+    ],
+    "seed": 2000
+  }
+}
